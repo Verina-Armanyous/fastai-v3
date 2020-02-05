@@ -9,8 +9,8 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1BBYANMLGqxzUCurvlEaqcGlvFt7TfkEI'
-export_file_name = 'export.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1-0IPjNYhU8mkcuwwHcsu6qyBwhPTudRL'
+export_file_name = 'stage-3'
 
 classes = ['memes','nonmemes']
 path = Path(__file__).parent
