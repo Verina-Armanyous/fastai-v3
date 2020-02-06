@@ -43,18 +43,18 @@ button.choose-file-button {
     width: 200px;
     height: 40px;
     border-radius: 2px;
-    background-color: #ffffff;
-    border: solid 1px #7052CB;
+    background-color: rgb(6, 42, 121)
+    border: solid 1pxrgb(6, 42, 121);
     font-size: 13px;
-    color: #7052CB;
+    color: rgb(6, 42, 121);
 }
 
 button.analyze-button {
     width: 200px;
     height: 40px;
-    border: solid 1px #7052CB;
+    border: solid 1px rgb(6, 42, 121);
     border-radius: 2px;
-    background-color: #7052CB;
+    background-color: rgb(6, 42, 121);
     font-size: 13px;
     color: #ffffff;
 }
